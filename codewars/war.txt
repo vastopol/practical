@@ -1,0 +1,21 @@
+CodeWars:
+
+kyu6:
+    Decode The Morse Code
+    Duplicate Encoder
+    English Beggars
+    Matrix Addition
+    Next Version
+    Numericals Of A String
+
+kyu7:
+    Alphabetical Addition
+    Flatten And Sort Array
+    Form The Minimum
+    Powers Of 3
+    Sort Out The Men From The Boys
+
+kyu8:
+    Difference Volume Cuboid
+    Square(n) Sum
+    Sum Mixed Array

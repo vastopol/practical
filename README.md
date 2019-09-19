@@ -2,7 +2,7 @@
 
 coding practice questions
 
-* leetfree.com
+* leetcode.com
 * codewars.com
 
 

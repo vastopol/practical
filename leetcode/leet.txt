@@ -1,12 +1,21 @@
 Problems:
 
-* 344  - Reverse String
-* 709  - To Lower Case
-* 771  - Jewels and Stones
-* 804  - Unique Morse Code Words
-* 832  - Flipping an Image
-* 938  - Range Sum of BST
-* 977  - Squares of a Sorted Array
-* 1021 - Remove Outer Most Parenthesis
-* 1108 - Defang IP Address
+* Easy
+    * 344  - Reverse String
+    * 595  - Big Countries
+    * 709  - To Lower Case
+    * 771  - Jewels and Stones
+    * 804  - Unique Morse Code Words
+    * 832  - Flipping an Image
+    * 905  - Sort Array by Parity
+    * 938  - Range Sum of BST
+    * 961  - N-Repeated Element in Size 2N Array
+    * 977  - Squares of a Sorted Array
+    * 1021 - Remove Outer Most Parenthesis
+    * 1108 - Defang IP Address
 
+* Medium
+    * 701  - Insert into a Binary Search Tree
+
+* Hard
+    * ...
