@@ -1,7 +1,10 @@
 Problems:
 
 * Easy
+    * 104  - max depth binary tree
+    * 136  - single number
     * 344  - Reverse String
+    * 412  - fizz buzz
     * 595  - Big Countries
     * 657  - Robot Return to Origin
     * 709  - To Lower Case
@@ -21,4 +24,3 @@ Problems:
 
 * Hard
     * ...
-    

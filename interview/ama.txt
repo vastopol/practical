@@ -1,0 +1,11 @@
+1   - longest repeating substring
+
+2   - find all non duplicate ints in array
+2.1 - merge k sorted arrays
+
+3   - dictionary class
+    add
+    Remove
+    suggest based on prefix
+
+    use a trie

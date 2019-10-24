@@ -1,5 +1,8 @@
 CodeWars:
 
+kyu5:
+    Simple Assembler Interpreter
+
 kyu6:
     Decode The Morse Code
     Duplicate Encoder
@@ -14,6 +17,7 @@ kyu7:
     Form The Minimum
     Powers Of 3
     Sort Out The Men From The Boys
+    Youre A Square
 
 kyu8:
     Difference Volume Cuboid
