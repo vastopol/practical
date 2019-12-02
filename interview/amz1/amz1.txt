@@ -1,0 +1,8 @@
+1.  find position of target rpm in a matrix
+    return pair in row column order
+
+2.  find and return the critical connections in a network graph
+    connection is critical if removal creates a disconnected network
+
+    only passed 15/16
+    
